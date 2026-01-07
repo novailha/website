@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Projects"
-    text: "Here's some of our works."
+    text: "Check our social media links and subscribe to our newsletter to see what we're building!"
     section: portfolio
     closebutton: "Close Project"
 
@@ -67,7 +67,7 @@ pt-BR: &DEFAULT_PT_BR
 
   portfolio:
     title: "Projetos"
-    text: "Aqui estão alguns dos nossos trabalhos."
+    text: "Confira nossas redes sociais e inscreva-se em nossa newsletter para ver o que estamos criando!"
     section: portfolio
     closebutton: "Fechar Projeto"
 
