@@ -43,10 +43,14 @@ en: &DEFAULT_EN
 
   footer:
     social:
+      - url: "#newsletter"
+        icon: "fas fa-envelope"
+      - url: https://www.instagram.com/novailhaestudio
+        icon: "fab fa-instagram"
+      - url: https://tiktok.com/@novailhaestudio
+        icon: "fab fa-tiktok"
       - url: https://t.me/novailhaestudio
         icon: "fab fa-telegram"
-      - url: https://instagram.com/novailhaestudio
-        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -92,9 +96,13 @@ pt-BR: &DEFAULT_PT_BR
 
   footer:
     social:
+      - url: "#newsletter"
+        icon: "fas fa-envelope"
+      - url: https://www.instagram.com/novailhaestudio
+        icon: "fab fa-instagram"
+      - url: https://tiktok.com/@novailhaestudio
+        icon: "fab fa-tiktok"
       - url: https://t.me/novailhaestudio
         icon: "fab fa-telegram"
-      - url: https://instagram.com/novailhaestudio
-        icon: "fab fa-instagram"
 pt-br:
   <<: *DEFAULT_PT_BR
